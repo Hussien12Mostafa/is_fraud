@@ -1,3 +1,4 @@
 # is_fraud
 
-link data set :   kartik2112/fraud-detection    in kaggle 
+link dataset :   kartik2112/fraud-detection    in kaggle 
+link my notebook in kaggel: https://www.kaggle.com/code/hussienawad/is-fraud-analysis
